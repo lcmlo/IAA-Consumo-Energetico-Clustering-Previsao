@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+# Raw / confidential data
+consumo15m_11_2025.csv
+*.csv
