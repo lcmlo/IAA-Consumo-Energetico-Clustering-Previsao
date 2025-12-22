@@ -22,7 +22,7 @@ Foram abordados:
 ## Estrutura do Repositório
 
 - IAA_notebook_final.ipynb # Notebook principal do projeto
-- IAA_relatorio_markdown.pdf # Relatório final (PDF, sem código)
+- IAA_relatorio_latex.pdf # Relatório final (PDF, sem código)
 - figures/ # Figuras utilizadas no relatório
 - *.pkl # Caches intermédias (modelos e resultados)
 - README.md # Descrição do projeto
